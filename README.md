@@ -214,5 +214,3 @@ OrderSystemProject/
 
 Made with ❤️ by Devdeepakjha
 
-# Edemy
-#
